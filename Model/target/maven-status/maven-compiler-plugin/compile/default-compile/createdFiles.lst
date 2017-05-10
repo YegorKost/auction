@@ -1,0 +1,10 @@
+com\yegor\model\LotEntity.class
+com\yegor\model\MessageEntity.class
+com\yegor\model\OrderEntity.class
+com\yegor\model\UserEntity.class
+com\yegor\model\RoleEntity.class
+com\yegor\model\OrderStatusEntity.class
+com\yegor\model\ImageEntity.class
+com\yegor\model\CategoryEntity.class
+com\yegor\model\CommentEntity.class
+com\yegor\model\LotStatusEntity.class

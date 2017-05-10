@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - auction@localhost" uuid="0f1ef7f5-1f8f-4d75-a8a5-3c195ba68dcc">
+      <secret-storage>master_key</secret-storage>
+      <user-name>postgres</user-name>
+      <introspection-scope>auction:pg_catalog,postgres,public</introspection-scope>
+    </data-source>
+  </component>
+</project>
