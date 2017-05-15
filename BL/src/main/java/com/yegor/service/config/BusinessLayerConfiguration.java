@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Import;
  * Created by YegorKost on 02.05.2017.
  */
 @Configuration
-@ComponentScan(value = "com.yegor.service.serviceImpl")
 @Import(DataAccessLayerConfiguration.class)
+@ComponentScan(value = "com.yegor.service.serviceImpl")
 public class BusinessLayerConfiguration {
 }
